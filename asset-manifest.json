@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Twm-deploy/static/css/main.4d977055.css",
-    "main.js": "/Twm-deploy/static/js/main.595e80c2.js",
+    "main.js": "/Twm-deploy/static/js/main.5dbb4a44.js",
     "index.html": "/Twm-deploy/index.html",
     "main.4d977055.css.map": "/Twm-deploy/static/css/main.4d977055.css.map",
-    "main.595e80c2.js.map": "/Twm-deploy/static/js/main.595e80c2.js.map"
+    "main.5dbb4a44.js.map": "/Twm-deploy/static/js/main.5dbb4a44.js.map"
   },
   "entrypoints": [
     "static/css/main.4d977055.css",
-    "static/js/main.595e80c2.js"
+    "static/js/main.5dbb4a44.js"
   ]
 }
