@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Twm-deploy/static/css/main.4d977055.css",
+    "main.js": "/Twm-deploy/static/js/main.ac02e6cc.js",
+    "index.html": "/Twm-deploy/index.html",
+    "main.4d977055.css.map": "/Twm-deploy/static/css/main.4d977055.css.map",
+    "main.ac02e6cc.js.map": "/Twm-deploy/static/js/main.ac02e6cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d977055.css",
+    "static/js/main.ac02e6cc.js"
+  ]
+}
