@@ -6,7 +6,7 @@ import Landing from "./components/Landing.tsx"
 
 const App: React.FC = ()=>{
   return(
-    <Router>
+    <Router basename="/Twm-deploy">
       <Routes>
         <Route path="/" element={<Landing/>}/>
       </Routes>

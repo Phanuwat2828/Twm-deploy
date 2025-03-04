@@ -5,7 +5,6 @@ const Navbar: React.FC = () =>{
     return (
         <>
             <nav className="flex flex-row w-full h-16 items-center p-10 space-x-20 pl-20 pr-20 ">
-              
                 <p className="text-2xl font-medium ">Twm.com</p>
                 <div className=" space-x-6 absolute right-1/3 md:right-80 hidden md:flex">
                     <p className="text-lg">รายละเอียด</p>
